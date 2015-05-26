@@ -1,0 +1,9 @@
+The first assignment was to write a simple CUDA kernel that would change a given image
+from RGB (alpha channel ignored) into greyscale. The requested solution had to follow 
+a simple formula which weighted the 3 channels to make the greyscale image more pleasing
+to the human eye.
+
+I do not have my solution to this lesson's assignment. This repository was created after
+I submitted my solution. The Udacity platform has a built in editor and the solution is
+run through compilation and test on their servers. I never grabbed the source code off
+before moving on with the course...
